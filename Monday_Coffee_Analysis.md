@@ -155,12 +155,6 @@ It identifies where coffee demand is strongest, where new opportunities exist, a
 
 ---
 
-## 📂 Project Files
-| File Name | Description |
-|------------|--------------|
-| `monday_coffee_analysis.sql` | Main SQL analysis script |
-| `coffee_data.csv` | (Optional) Source data for city, sales, customers, products |
-| `README.md` | Project documentation |
 
 ---
 
@@ -168,6 +162,3 @@ It identifies where coffee demand is strongest, where new opportunities exist, a
 **Sunday Ajayi**  
 _Data Analyst | SQL | Excel | Power BI | R | Oracle | Odoo_  
 
-📧 Email: (add your email)  
-🔗 GitHub: [yourusername](https://github.com/yourusername)  
-💼 LinkedIn: (add your LinkedIn profile)
